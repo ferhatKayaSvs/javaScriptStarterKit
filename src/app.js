@@ -10,12 +10,9 @@ dolarDun = "9.20"
 }
 
 {
-    let dolarDun = 9.10
+    var dolarDun = 9.10
 }
 
-{
-    let dolarDun = 9.10
-}
 
 console.log(dolarDun)
 
