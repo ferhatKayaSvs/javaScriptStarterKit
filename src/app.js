@@ -9,6 +9,10 @@ dolarDun = "9.20"
     let dolarDun = 9.10
 }
 
+{
+    let dolarDun = 9.10
+}
+
 console.log(dolarDun)
 
 const euroDun = 11.2
